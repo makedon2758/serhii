@@ -1,0 +1,12 @@
+header {
+  background-color: #fff;
+}
+
+body {
+  font-size: 10px;
+}
+body div {
+  font-size: 13px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: rgba(35, 236, 8, 0.712);
+}
